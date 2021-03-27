@@ -202,7 +202,7 @@ e.g. https://pp12345.ap-southeast-2.snowflakecomputing.com
     - Cache is deleted when the Warehouse is suspended
 ```
 - Snowflake 様々なデータをキャッシュすることで、クエリのパフォーマンスを向上させ、コスト削減を支援します。
-    -（大）メタデータキャッシュ - クラウドサービス層
+    - （大）メタデータキャッシュ - クラウドサービス層
         - よく使われるテーブルに対するクエリのコンパイル時間を短縮します。
     - （中）リザルトキャッシュ - クラウドサービス層
         - クエリの結果を保持
