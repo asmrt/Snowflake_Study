@@ -85,3 +85,34 @@ multi-cluster warehouse
         - 1（アジア太平洋地域-0、EU-0、北米-1） >> プレビュー中
     - Azure
         - 7（アジア太平洋地域-2、EU-1、北米-4）
+
+### // Connecting to SF //
+```
+- Web-based UI (see above for usage,capabilities, restriction)
+- Command line client (SnowSQL)
+- ODBC and JDBC (you have to download the
+driver!)
+- Native Connectors (Python, Spark & Kafka)
+- Third party connectors (e.g. Matilion)
+- Others (Node.js, .Net)
+
+Snowflake Address
+https://account_name_region_{provider}.snowflakecomputing.com
+Account_name either:
+- AWS = account_name.region
+- GCP/Azure = account_name.region.gcp/azure
+e.g. https://pp12345.ap-southeast-2.snowflakecomputing.com
+```
+- Web ベースの UI (使用方法、機能、制限については上記を参照)
+    - コマンドラインクライアント(SnowSQL)
+    - ODBCおよびJDBC（ドライバーをダウンロードする必要があります。)
+    - ネイティブコネクタ（Python、Spark & Kafka）
+    - サードパーティのコネクタ（Matilionなど）
+    - その他 (Node.js, .Net)
+
+### Snowflakeのアドレス
+    - https://account_name_region_{provider}.snowflakecomputing.com
+- アカウント名
+    - AWS = アカウント名.リージョン
+    - GCP/Azure = アカウント名.リージョン.gcp/azure
+例： https://pp12345.ap-southeast-2.snowflakecomputing.com
