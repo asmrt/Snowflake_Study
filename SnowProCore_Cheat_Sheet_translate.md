@@ -103,6 +103,8 @@ Account_name either:
 - GCP/Azure = account_name.region.gcp/azure
 e.g. https://pp12345.ap-southeast-2.snowflakecomputing.com
 ```
+<img width="730" alt="スクリーンショット 2021-03-27 19 47 54" src="https://user-images.githubusercontent.com/56843306/112718571-3def5380-8f37-11eb-90bf-07f082cb945b.png">
+
 - Web ベースの UI (使用方法、機能、制限については上記を参照)
     - コマンドラインクライアント(SnowSQL)
     - ODBCおよびJDBC（ドライバーをダウンロードする必要があります。)
