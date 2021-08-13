@@ -1,6 +1,7 @@
 
 # SnowProCore Cheatsheet（*）を翻訳してみた
 
+2021/08/13 Fri 変更
 ## 概要
 - 以下SnowProCore Cheatsheetを日本語翻訳してみて、SnowflakeとDB関連の英語知識を
 深めるためのドキュメント
