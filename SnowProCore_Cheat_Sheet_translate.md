@@ -1,5 +1,5 @@
 
-# SnowProCore Cheatsheet（*）を翻訳してみた
+# SnowProCore Cheatsheet（*）を翻訳してみた 
 
 ## 概要
 - 以下SnowProCore Cheatsheetを日本語翻訳してみて、SnowflakeとDB関連の英語知識を
@@ -10,6 +10,7 @@
 
 注意：日本語翻訳は誤っている可能性があります。画像は元資料のものおよびSnowflake公式ドキュメントのものを引用しました。
 
+2023/04/03 追記
 ## 翻訳 
 
 ### // Snowflake - General //
